@@ -45,10 +45,12 @@ Backlog grooming is a regular Meeting where backlog items are discussed, reviewe
 
 # Docker
 #### Docker config file
-```FROM openjdk:17(jdk version of project)
-ADD/COPY target/JAR_FILE_NAME YOUR_NEW_NAME_FOR_JAR_FILE(This can be kept same as original)
-ENTRYPOINT ["java", "-jar", "Your new jdk file name from above line"] ```
 
+```
+FROM openjdk:17(jdk version of project)
+ADD/COPY target/JAR_FILE_NAME YOUR_NEW_NAME_FOR_JAR_FILE(This can be kept same as original)
+ENTRYPOINT ["java", "-jar", "Your new jdk file name from above line"] 
+```
 
 Docker commands
 - `docker images` - to check all the images

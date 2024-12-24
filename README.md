@@ -147,7 +147,60 @@ Backlog grooming is a regular Meeting where backlog items are discussed, reviewe
 ## Extended Artifacts
 - Defination of done
 - Burndown chart
-- 
+
+| Agile   | Waterfall |
+| ------------- | ------------- |
+| Continous and Iterative  | Linear and sqauential  |
+| Iteartions  | Phases |
+|Incremental | sequential |
+|Evolving | equirements|
+|Testing throughout| testing after|
+|Team co-ordinatio| --|
+|Product | Project mindset|
+|Team dynamics| --|
+
+# Agile Benefits
+- Client-focused
+- Self-organozed teams
+- Quality software
+- Transparency
+
+# Agile Challenges
+- better for larger projects
+- Requires experties
+- Requires strong directionn
+- Cost
+
+# CI?CD Methodology
+- small changes
+- Consistent
+- Automated
+## CI
+- Frequent code check-ins
+- Integration of code
+- Validation
+- Improved software quality
+## Continuous delivery
+- Automated delivery
+- Multiple envirnoments
+- Service calls
+## CD
+- Automatic deployment to production
+- for mature teams
+- Not always optimal
+- Feature flags
+## Continuous Testing
+- Build - pass or fail
+- Funcationality tests
+- Regression tests
+- Local Environment tests
+### CI/CD with Agile
+- Fast software delivery
+- Fast feedback
+- Continual Testing
+- Rapid learning
+## Transactioning from waterfall to agile
+
 
 # Docker
 #### Docker config file

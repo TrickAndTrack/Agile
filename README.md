@@ -119,7 +119,35 @@ Backlog grooming is a regular Meeting where backlog items are discussed, reviewe
 - plan to resolve issues
 - life cycle starts again
 
-
+# Agile Artifacts
+- Defination or product being developed- In Agile this is called the prduct backlog.
+- Development action- this is called the sprint backlog.
+- Project actions
+- Insight into performace
+## Benefites of Agile Artifacts
+- Transperncy
+- Inspection
+- Adaptation
+## product backlog
+- Live Artifacts
+- cross-team
+- managed by product owner
+- active and deprioritized work
+## Sprint Backlog
+- Developemt actions
+- Created by developemnt team
+- Planned deliveravles for iteration
+- Breakdown of larger tasks
+- Created as part of sprint planning
+## product Increment
+- project action
+- Includes pervious output
+- One increment per iteration
+- Complemented by CI/CD
+## Extended Artifacts
+- Defination of done
+- Burndown chart
+- 
 
 # Docker
 #### Docker config file

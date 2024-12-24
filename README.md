@@ -43,6 +43,84 @@ Backlog grooming is a regular Meeting where backlog items are discussed, reviewe
 ~~Release cycle: In our company, we have a monthly release cycle.~~
 
 
+
+## History of Agile
+- The agile maifesto was produced in february 2001
+- Agile is symbolic not one a specific methodology
+- agile beacosme mainstream in the 2010s.
+
+## Agile Manifesto
+- Individuals over process
+- Interactions over tools
+- Working software over documentation
+- Collaboration over contract negotiation
+- Responding to change over following a plan
+
+## Agile Approach
+### Analysis
+- The client describes their desired product
+### Developemt Cycle
+- Plan
+- Execute
+- Evaluate
+### Collaboration
+- Customer
+- Product Owner
+- Developer
+### Iterative improvment
+- New feature are released regularky as the process is repeated.
+## Benefites of agile developemnt  
+- Product quality
+- Business value
+- User-forcedd features
+- On-time delivery
+## More Benefites of agile developemnt 
+- Communication
+- Customer engagement
+- promotes change
+- Predictable budget
+
+## Agile development challenges
+- chnaging ingrained behaviours
+- finding skilled product owners
+- Building cross-functional teams
+- Demand on developers and clients
+- lack of commitment
+
+
+# Agile development life Cycle
+1) Requiremnts gathering
+2) Design
+3) Development
+4) Testing
+5) Deployment
+6) Review
+
+## Requiremnts Gathering
+- Critical feature only
+- only what is needed to start
+## Design
+- Programming languages
+- frameworks and libraries
+- Architecture
+- UI Mock-up
+## Development
+- Itertive implementation
+- Based on stakeholder feedback
+## Testing
+- code is tested dusring each iteration od development
+- progresses by iteration to functional, integration and acceptnace testing
+## Deployment
+- New features and bug fixes
+- ideally deployed every iteration
+## Review
+- PO and developers collaborate
+- Review progress against requirements
+- plan to resolve issues
+- life cycle starts again
+
+
+
 # Docker
 #### Docker config file
 

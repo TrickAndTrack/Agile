@@ -201,6 +201,36 @@ Backlog grooming is a regular Meeting where backlog items are discussed, reviewe
 - Rapid learning
 ## Transactioning from waterfall to agile
 
+# Scrum framework
+- Scrum is  a framework that helps  manage the agile values in a real programing enviroment.
+- Plan
+- Update
+- Analyze
+  ##  Scrum workflow
+  - Sprinng planning
+  - Sprint
+  - Spring review and restrospective
+# Kanban framework
+# Learn framework
+# Agile Types of Model
+### Hybrid Model use case
+- equally important components & inclued back end and front-end.
+- benefits are increase planing effifiencies and Enchances collaboration  and Enables effective standard compliance and provide starting point.
+- Best Practices seprate activites between approches.
+- key considerations communication methods and Training.
+### Bimodal Agile Model
+- predictablility and agile
+  #### Model 1
+ - Predicatble
+ - understood
+ - requrie security and safety
+  #### Model 2 
+  - uncertain
+  - Experimental
+  - Exploratory
+  - 
+
+
 
 # Docker
 #### Docker config file

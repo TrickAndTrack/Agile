@@ -233,7 +233,22 @@ Backlog grooming is a regular Meeting where backlog items are discussed, reviewe
 - undertermined or evolving requirement
 - how fleible are timeline?
 - is there a defined deadline?
-- 
+
+# Agile Testing
+## Agile Testing Life cycle
+- test planning
+- Spring planning
+   - Scrum framwork
+   - determines product backlog
+   - involment in sprint planning
+   - product owner
+   - team
+   - scrum master
+- Implemantion and excution
+- sprint closure activites
+- Creation of test cases
+- less bugs
+- Quick deliveries
 
 # Docker
 #### Docker config file

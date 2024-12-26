@@ -228,9 +228,12 @@ Backlog grooming is a regular Meeting where backlog items are discussed, reviewe
   - uncertain
   - Experimental
   - Exploratory
-  - 
 
-
+# identifying the best fit agile framework
+- undertermined or evolving requirement
+- how fleible are timeline?
+- is there a defined deadline?
+- 
 
 # Docker
 #### Docker config file

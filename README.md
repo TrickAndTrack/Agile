@@ -39,7 +39,8 @@ The is the last meeting of the sprint, in this meeting the team discuss What all
 `Backlog grooming`:
 Backlog grooming is a regular Meeting where backlog items are discussed, reviewed, and prioritized by product managers, product owners, and the rest of the team. The primary goal of backlog grooming is to keep the backlog up-to-date and ensure that backlog items are prepared for upcoming sprints.
 
-
+`Definition of Done`:
+In JIRA, the Definition of Done (DoD) refers to a set of criteria that must be met for a task, story, or issue to be considered "done" and ready for release or deployment. It ensures that all required work is completed before marking an issue as "Done" in the workflow.
 ~~Release cycle: In our company, we have a monthly release cycle.~~
 
 
